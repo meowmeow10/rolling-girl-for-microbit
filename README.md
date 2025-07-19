@@ -18,6 +18,10 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/meowmeow10/rolling-girl-for-microbit** and click import
 
+## Dependancies
+RG for micro:bit needs **pxt-microbit-nerds** for audio rendering.
+[Get it Here!](https://github.com/63rabbits/pxt-microbit-nerds)
+
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
