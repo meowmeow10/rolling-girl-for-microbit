@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "midi": "github:microsoft/pxt-midi#v2.2.0",
+        "pxt-microbit-nerds": "github:63rabbits/pxt-microbit-nerds#3e91741bc107d93a01be169a4937f077ad1bd7e0"
     },
     "files": [
         "main.blocks",
@@ -21,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
